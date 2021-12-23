@@ -1,1 +1,1 @@
-# My-Notes
+# Aplikacja z dodawaniem/usuwaniem notatek:
